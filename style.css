@@ -24,7 +24,7 @@ body{
     position: fixed;
     bottom: 0;
     width: 100%;
-    color: gray;
+    color: red;
     text-shadow: 5px 5px 5px rgb(151,149,149);
     background-color: gray;
     line-height: 3;
